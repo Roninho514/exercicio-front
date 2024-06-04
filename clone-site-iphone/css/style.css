@@ -131,6 +131,13 @@ header  nav{
     opacity: 0.5;
 }
 
+#main-content #description {
+    max-width: 600px;
+    margin: 1rem auto;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+
 #image-picker {
     margin-bottom: 500px;
 }
